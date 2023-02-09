@@ -26,3 +26,11 @@ json을 리턴하는 공용 API 활용
 2. Builder 활용
    
    com/example/feightest2/client/GitHubClient
+
+
+3. TEST URL
+
+   http://127.0.0.1:8080/v1/github/YiMyungHwan/git-test
+
+
+4. 이명환 테스트중(2302092100)
